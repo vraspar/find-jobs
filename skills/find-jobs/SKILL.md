@@ -27,7 +27,7 @@ Leave these out of the new list. Mention how many you skipped in one line.
 
 ## 3. Pick the sources
 
-Check whether Tenjin is installed: you have a Tenjin `request` tool. Tenjin adds live X search, LinkedIn, Indeed, Glassdoor and ZipRecruiter listings, and people search, for a few cents a run. Without it, the free sources still work.
+Check whether Tenjin is installed: you have a Tenjin `request` tool. Tenjin adds live X search, LinkedIn, Indeed, Glassdoor and ZipRecruiter listings, and people search, for a few cents a run. It adds to the free sources and does not replace them, so search those in every run. Without Tenjin, the free sources still work.
 
 Read `references/sources.md` for the exact free endpoints and search patterns, and for how to ask Tenjin.
 
