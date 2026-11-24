@@ -55,7 +55,7 @@ From a free run on an ML engineer's resume, 23 Nov 2026 (excerpt):
 
 ## How it works
 
-Each job includes the company, role, location, pay if shown, direct apply link, and a one-line explanation of why it fits. It also includes warnings and, when found, the person to write to: their name, role, contact details, source link, and one thing they care about. If it cannot find the right person, it says so. It does not guess.
+Each job includes the company, role, location, pay if shown, direct apply link, and a one-line explanation of why it fits. It also includes warnings. For the five best jobs, it adds the person to write to: their name, role, contact details, source link, and one thing they care about. If it cannot find the right person, it says so. It does not guess.
 
 The skill drops a job only if it is closed or the work does not match the title. It keeps other jobs and warns you about layoffs in the last three months, stealth or unnamed companies, recruiter posts, contracts, and listings that have been open for months. You decide what to pursue.
 
