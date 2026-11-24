@@ -6,6 +6,7 @@
     "name": "vraspar",
     "url": "https://github.com/vraspar"
   },
+  "homepage": "https://github.com/vraspar/find-jobs",
   "repository": "https://github.com/vraspar/find-jobs",
   "license": "MIT",
   "keywords": [
@@ -16,5 +17,6 @@
     "career-ops",
     "tenjin"
   ],
-  "icon": "./assets/icon.png"
+  "icon": "./assets/icon.png",
+  "supportUrl": "https://github.com/vraspar/find-jobs/issues"
 }
