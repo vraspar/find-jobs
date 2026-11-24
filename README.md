@@ -6,7 +6,7 @@
 
 Tell your coding agent to find you jobs and give it your resume. The skill searches Hacker News “Who is hiring?” threads, Y Combinator jobs, company job boards, and the web, checks that each job is open, and for the best jobs finds the person who owns the role.
 
-With [Tenjin](https://tenjin.sh), it also runs a live X search, pulls more LinkedIn, Indeed, Glassdoor, and ZipRecruiter listings, and looks people up, for a few cents a run.
+If you use [Tenjin](https://tenjin.sh), it also runs a live X search, pulls more LinkedIn, Indeed, Glassdoor, and ZipRecruiter listings, and looks people up, for a few cents a run.
 
 It works on its own or inside a [career-ops](#works-with-career-ops) folder, where it adds jobs to the career-ops inbox.
 
@@ -64,12 +64,6 @@ Run it again from the same folder and it skips jobs it has already shown you. On
 ## With Tenjin
 
 Tenjin is a tool router for coding agents. It charges per call from one balance. find-jobs checks whether Tenjin is installed and uses it when available.
-
-To install Tenjin, paste this into Claude Code or Codex:
-
-```text
-Install Tenjin from tenjin.sh
-```
 
 ## Works with career-ops
 
