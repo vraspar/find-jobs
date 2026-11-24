@@ -4,7 +4,7 @@
 
 **Find jobs that fit your resume, and the person hiring for the best ones.**
 
-Tell your coding agent to find you jobs and give it your resume. The skill searches Hacker News “Who is hiring?” threads, Y Combinator jobs, company job boards, and the web, checks that each job is open, and warns you about layoffs, stealth companies, and old listings. For the best jobs, it finds the person who owns the role; it never applies or messages anyone for you.
+Tell your coding agent to find you jobs and give it your resume. The skill searches Hacker News “Who is hiring?” threads, Y Combinator jobs, company job boards, and the web, checks that each job is open, and warns you about layoffs, stealth companies, and old listings. For the best jobs, it finds the person who owns the role.
 
 With [Tenjin](https://tenjin.sh), it also runs a live X search, pulls more LinkedIn, Indeed, Glassdoor, and ZipRecruiter listings, and looks people up, for about 5 cents a run.
 
@@ -55,7 +55,7 @@ From a free run on an ML engineer's resume, 23 Nov 2026 (excerpt):
 
 ## How it works
 
-Each job includes the company, role, location, pay if shown, direct apply link, and a one-line explanation of why it fits. For the five best jobs, it adds the person to write to: their name, role, contact details, source link, and one thing they care about. If it cannot find the right person, it says so. It does not guess.
+Each job includes the company, role, location, pay if shown, direct apply link, and a one-line explanation of why it fits. For the five best jobs, it looks for the person who owns the role and adds their name, role, contact details, source link, and one thing they care about. If it cannot find the right person, it says so. It does not guess, apply, or message anyone for you.
 
 Of the jobs that fit your role, level, and place, the skill drops one only if it is closed or the work does not match the title. It keeps the others and warns you about layoffs or a hiring freeze in the last three months, stealth or unnamed companies, recruiter posts, contracts, and listings that have been open for months. You decide what to pursue.
 
@@ -63,11 +63,7 @@ Run it again anytime; it skips jobs it has already shown you. On its own, it sav
 
 Your resume stays on your machine. The skill sends only short search terms to services.
 
-## Sources
-
-| Free, no account or key | With Tenjin |
-| --- | --- |
-| Hacker News “Who is hiring?” threads, Y Combinator jobs, company job boards on Greenhouse, Lever, and Ashby, and your agent’s web search, which also finds some X posts, LinkedIn, Indeed, Glassdoor, and ZipRecruiter listings, and LinkedIn profiles | Everything in the free column, plus a live X search, more LinkedIn, Indeed, Glassdoor, and ZipRecruiter listings, and people search |
+## With Tenjin
 
 Tenjin is a tool router for coding agents. It charges per call from one balance. find-jobs checks whether Tenjin is installed and uses it when available.
 

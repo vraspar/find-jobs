@@ -9,14 +9,12 @@
   "repository": "https://github.com/vraspar/find-jobs",
   "license": "MIT",
   "keywords": [
-    "job-search",
-    "jobs",
-    "hiring-manager",
-    "career-ops",
-    "tenjin",
     "agent-skills",
     "claude-code",
-    "codex"
+    "codex",
+    "job-search",
+    "career-ops",
+    "tenjin"
   ],
   "skills": "./skills/"
 }
