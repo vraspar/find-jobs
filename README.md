@@ -16,7 +16,7 @@ In Claude Code, run:
 
 ```text
 /plugin marketplace add vraspar/find-jobs
-/plugin install find-jobs@find-jobs
+/plugin install find-jobs@vraspar
 ```
 
 For Codex, Cursor, and other agents, run:
