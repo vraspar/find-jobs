@@ -79,6 +79,10 @@ Run find-jobs inside your career-ops folder. It reads `cv.md` and `config/profil
 
 find-jobs is not part of or endorsed by career-ops.
 
+## Privacy
+
+find-jobs runs in your agent. It reads your resume and saves reports, with the names of the people to contact, only on your machine. It sends only search terms (role, skills, place, and company names for people lookups) to web search and to the Hacker News, Y Combinator, Greenhouse, Lever and Ashby job pages, and, with Tenjin, to Tenjin and the services it uses. It runs no server and keeps no data.
+
 ## License
 
 MIT

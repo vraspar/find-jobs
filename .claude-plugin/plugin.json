@@ -18,5 +18,6 @@
     "tenjin"
   ],
   "icon": "./assets/icon.png",
-  "supportUrl": "https://github.com/vraspar/find-jobs/issues"
+  "supportUrl": "https://github.com/vraspar/find-jobs/issues",
+  "privacyPolicyUrl": "https://github.com/vraspar/find-jobs#privacy"
 }
