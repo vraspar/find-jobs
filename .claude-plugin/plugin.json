@@ -1,13 +1,22 @@
 {
   "name": "find-jobs",
   "version": "0.1.0",
-  "description": "Find jobs that fit your resume, and the person who owns each role. Free with web search and public job boards; more sources with Tenjin. Works on its own or with career-ops.",
+  "description": "Find jobs that fit your resume, and the person hiring for the best ones. Free with web search and public job boards; more sources with Tenjin. Works on its own or with career-ops.",
   "author": {
     "name": "vraspar",
     "url": "https://github.com/vraspar"
   },
   "repository": "https://github.com/vraspar/find-jobs",
   "license": "MIT",
-  "keywords": ["job-search", "jobs", "hiring-manager", "career-ops", "tenjin", "claude-code"],
+  "keywords": [
+    "job-search",
+    "jobs",
+    "hiring-manager",
+    "career-ops",
+    "tenjin",
+    "agent-skills",
+    "claude-code",
+    "codex"
+  ],
   "skills": "./skills/"
 }
