@@ -1,7 +1,5 @@
 # find-jobs
 
-![find-jobs](assets/cover.png)
-
 **Find jobs that fit your resume, and the person hiring for the best ones.**
 
 Tell your coding agent to find you jobs and give it your resume. The skill searches Hacker News “Who is hiring?” threads, Y Combinator jobs, company job boards, and the web, checks that each job is open, and for the best jobs finds the person who owns the role.
