@@ -1,5 +1,6 @@
 {
   "name": "find-jobs",
+  "description": "Find jobs that fit your resume, and the person hiring for the best ones. Free with web search and public job boards; more sources with Tenjin. Works on its own or with career-ops.",
   "owner": {
     "name": "vraspar",
     "url": "https://github.com/vraspar"
@@ -9,8 +10,7 @@
       "name": "find-jobs",
       "source": "./",
       "description": "Find jobs that fit your resume, and the person hiring for the best ones. Free with web search and public job boards; more sources with Tenjin. Works on its own or with career-ops.",
-      "category": "productivity",
-      "version": "0.1.0"
+      "category": "productivity"
     }
   ]
 }
