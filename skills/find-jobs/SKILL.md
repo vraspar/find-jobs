@@ -41,7 +41,7 @@ Aim for about 10 minutes. After each step, tell the user in one line what you fo
 
 ## 5. Check each job
 
-Open each job's own page, not the company's whole job board. Checking takes most of the run, so if you can run several agents at once, split the jobs between them.
+Open each job's own page, not the company's whole job board. If you hand the checks to other agents, give each one a few jobs and ask for a few lines per job, then wait for all of them before you write the report.
 
 Drop a job only if it is closed or the work does not match the title. Keep every other job and warn the user about anything they should know before they apply:
 
@@ -65,7 +65,7 @@ If you cannot find the person, say so. Do not guess: a wrong name wastes the use
 
 ## 7. Report
 
-Use this shape, in the chat and in the saved file. Keep it short.
+Use this shape, in the chat and in the saved file, and not a table: a table drops the fit and person lines that make the list useful. Keep it short.
 
 ```markdown
 # Jobs worth applying to, <date>

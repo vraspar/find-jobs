@@ -28,8 +28,8 @@ Use the free sources in every run. When Tenjin is installed, add its lookups on 
 Ask Tenjin's `request` tool in plain words, one lookup per call. Tenjin picks the service and shows the price before it charges. Each lookup costs a fraction of a cent to about 2 cents.
 
 - **X:** "X posts from the last 7 days where people say they are hiring a <role> in <place>". X is where Tenjin finds jobs that the free sources miss, so run a few searches with different words: the job title, the key skill, and phrases such as "my team is hiring" or "DM me".
-- **Job boards:** "Job listings for <role> in <place> from the last week". This covers LinkedIn, Indeed, Glassdoor, ZipRecruiter and employers' own boards. Search once for each place the user wants.
-- **People:** "People at <company> who lead <team>", to find the hiring manager. Then confirm the person with a second source, such as their posts or the company's team page.
+- **Job boards:** "Job listings for <role> in <place> from the last week". This covers LinkedIn, Indeed, Glassdoor, ZipRecruiter and employers' own boards.
+- **People:** "People at <company> who lead <team>", to find the hiring manager.
 - **Deeper web search:** for a company's recent news, layoffs or a person's recent posts.
 
 If a lookup fails, go on with the other sources and say so in one line of the report.
