@@ -33,7 +33,7 @@ Keep the resume on this machine. Send only search terms to any service. Do not h
    - Job listings from LinkedIn, Indeed, Glassdoor, ZipRecruiter and employers' own boards.
 
    Keep going while these turn up new jobs that fit. Merge the results with steps 1 and 2, and drop a job whose URL, or company and role, is already on the list.
-4. Open each job's own page. Drop a job that fits only if it is closed or the work does not match the title. If you cannot confirm that it is open, keep it with the warning "not confirmed open". Warn the user about layoffs or a hiring freeze in the last 3 months, a stealth or unnamed company, a recruiter post, a contract, or a listing open for months.
+4. Open each job's own page, and take the pay, place and level from it, not from a job board listing. Drop a job that fits only if it is closed or the work does not match the title. If you cannot confirm that it is open, keep it with the warning "not confirmed open". Warn the user about layoffs or a hiring freeze in the last 3 months, a stealth or unnamed company, a recruiter post, a contract, or a listing open for months.
 5. For the 5 best jobs, find the hiring manager, team lead or founder, not the recruiter. Use the free ways, and with Tenjin also run its people search for each of the 5. Link to your source. If you cannot confirm the person, say so; you can name a likely person if you mark them as not confirmed. Do not guess.
 
 ## The report
