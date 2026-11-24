@@ -1,8 +1,14 @@
 # find-jobs
 
-Tell your coding agent to find you jobs and give it your resume. find-jobs searches listings, checks each job, and gives you a short list. For the five best jobs, it also looks for the hiring manager, team lead, or founder who owns the role.
+![find-jobs](assets/cover.png)
 
-find-jobs is an agent skill and a Claude Code plugin by Vrajang Parikh.
+**Find jobs that fit your resume, and the person hiring for each.**
+
+Tell your coding agent to find you jobs and give it your resume. The skill searches Hacker News “Who is hiring?” threads, Y Combinator jobs, company job boards, and the web, checks that each job is open, and warns you about layoffs, stealth companies, and old listings. For the best jobs, it finds the person who owns the role; it never applies or messages anyone for you.
+
+With [Tenjin](https://tenjin.sh), it also searches live X hiring posts and LinkedIn, Indeed, Glassdoor, and ZipRecruiter listings, and looks people up, for about 5 cents a run.
+
+It works on its own or inside a [career-ops](#works-with-career-ops) folder, where it adds jobs to the career-ops inbox.
 
 ## Install
 
@@ -53,9 +59,7 @@ Each job includes the company, role, location, pay if shown, direct apply link, 
 
 The skill drops a job only if it is closed or the work does not match the title. It keeps other jobs and warns you about layoffs in the last three months, stealth or unnamed companies, recruiter posts, contracts, and listings that have been open for months. You decide what to pursue.
 
-It never applies, messages, or posts anywhere. You write your own note and apply yourself.
-
-Run it again anytime; it skips jobs it has already shown you. It saves each report to `find-jobs/<date>.md` in the folder where you run it, or, inside career-ops, adds the jobs to the career-ops inbox.
+Run it again anytime; it skips jobs it has already shown you. It saves each report to `find-jobs/<date>.md` in the folder where you run it.
 
 Your resume stays on your machine. The skill sends only short search terms to services.
 
@@ -65,7 +69,7 @@ Your resume stays on your machine. The skill sends only short search terms to se
 | --- | --- |
 | Hacker News “Who is hiring?” threads, Y Combinator jobs, company job boards on Greenhouse, Lever, and Ashby, and your agent’s web search, which also finds some X posts and LinkedIn profiles | Live X hiring posts, LinkedIn, Indeed, Glassdoor, and ZipRecruiter listings, and people search |
 
-[Tenjin](https://tenjin.sh) is a tool router for coding agents. It charges per call from one balance, at about 5 cents per run. find-jobs checks whether Tenjin is installed and uses it when available.
+Tenjin is a tool router for coding agents. It charges per call from one balance. find-jobs checks whether Tenjin is installed and uses it when available.
 
 To install Tenjin, paste this into Claude Code or Codex:
 
